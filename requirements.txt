@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+groq
+SpeechRecognition
+pyttsx3
+streamlit
+python-dotenv
